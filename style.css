@@ -1,13 +1,14 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
-	background:  yellow;
+	background:  blue;
 
 	
 }
 
 h1 {
 	font-weight: lighter;
+	color:  white;
 
 	
 }
@@ -18,7 +19,7 @@ h1 {
 
 p {
 	max-width: 500px;
-	color:  blue;
+	color:  white;
 }
 
 #container {
@@ -33,5 +34,6 @@ p {
 #logo {
 	height:  60px;
 	width:  60px;
+	color:  white;
 }
 
